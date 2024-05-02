@@ -1,3 +1,10 @@
+# ---------
+# convert_to_tiff.jl 
+# author: Yudha Styawan
+# email: yudhastyawan26@gmail.com 
+# free to use
+# ---------
+
 # framework
 using DataFrames
 import ArchGDAL as AG
